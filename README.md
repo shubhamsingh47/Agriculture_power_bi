@@ -13,12 +13,12 @@ The main features of the system include:
 Collaboration: Connect with other farmers in your area to share information and resources.
 
 This dataset contains variable like : \
-* "state" : Name of Indian States
-* "district" : Name of Indian districts 
-* "market" : Name of markets in that states
-* "commodity" : Name of commodity sold
-* "variety" : Different varieties names
-* "arrival_date" : date of arrival 
-* "min_price" : Maximum price 
-* "max_price" : Minimum price
-* "modal_price" : Average of prices
+* "state" :         Name of Indian States
+* "district" :      Name of Indian districts 
+* "market" :        Name of markets in that states
+* "commodity" :     Name of commodity sold
+* "variety" :       Different varieties names
+* "arrival_date" :  Date of arrival 
+* "min_price" :     Maximum price 
+* "max_price" :     Minimum price
+* "modal_price" :   Average of prices
