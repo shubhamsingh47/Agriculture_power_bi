@@ -1,6 +1,6 @@
 # Agriculture_power_Bi 
 ## It is a business intelligence project on Agriculture data analysis of India .
-## India faces several agriculture problems 
+## India faces several agriculture problems.
 ## Welcome to the Agriculture Project!
 
 #### Objective:-  This project aims to develop a system for managing agricultural operations in a more efficient and productive manner. The system will be designed to help farmers track crops, manage resources, and make informed decisions that will maximize yields and profits.
