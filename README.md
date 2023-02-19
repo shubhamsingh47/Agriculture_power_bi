@@ -12,7 +12,7 @@ The main features of the system include:
 * Analytics: Use data and analytics to make informed decisions about your farm operations.
 Collaboration: Connect with other farmers in your area to share information and resources.
 
-This dataset contains variable like : \
+This dataset contains variable like : 
 * "state" :         Name of Indian States
 * "district" :      Name of Indian districts 
 * "market" :        Name of markets in that states
