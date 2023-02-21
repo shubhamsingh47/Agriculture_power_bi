@@ -1,3 +1,4 @@
+![Annotation 2023-02-14 190757](https://user-images.githubusercontent.com/105655607/220362505-85e8f9ef-a82c-4c91-9dba-d4905e61a6c7.jpg)
 # Agriculture_power_Bi 
 ## It is a business intelligence project on Agriculture data analysis of India .
 ## India faces several agriculture problems.
